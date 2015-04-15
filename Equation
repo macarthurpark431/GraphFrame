@@ -1,5 +1,0 @@
-public interface Equation
-{
-    public double getValue(double x);
-    public Equation getDerivative();
-}
